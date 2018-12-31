@@ -3140,16 +3140,17 @@ img {
     box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.05), -2px 0px 5px 1px rgba(0, 0, 0, 0.05);
 }
 
-.services-block-two .inner-box:hover .icon-box {
+/* .services-block-two .inner-box:hover .icon-box {
     color: #ffffff;
     background-color: #e5a62d;
-}
+} */
 
 .services-block-two .inner-box h3 {
     position: relative;
     font-size: 20px;
     font-weight: 700;
     margin-bottom: 10px;
+    color: #222222;
 }
 
 .services-block-two .inner-box h3 a {
@@ -3377,6 +3378,7 @@ img {
     font-size: 20px;
     font-weight: 700;
     margin-bottom: 4px;
+    color: #222222;
 }
 
 .services-block-three .inner-box h3 a {
@@ -3441,6 +3443,7 @@ img {
     font-size: 20px;
     font-weight: 700;
     margin-bottom: 4px;
+    color: #222222;
 }
 
 .services-block-four .inner-box h3 a {
@@ -3582,6 +3585,7 @@ img {
 
 .gallery-item .overlay-inner .link .icon {
     position: relative;
+    padding-top: 15px;
 }
 
 
